@@ -1,19 +1,51 @@
-## Getting Started
+# 🚀 Usage Guide
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Follow the steps below to clone the repository and run the project locally.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 📥 Clone the Repository
 
--   `src`: the folder to maintain sources
--   `lib`: the folder to maintain dependencies
+Clone the GitHub repository using the command below:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+```bash
+git clone https://github.com/pradeepxvi/corejava
+```
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Move into the project directory:
 
-## Dependency Management
+```bash
+cd corejava
+```
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-# corejava
+## 💻 Open the Project in an IDE
+
+You can use Visual Studio Code or IntelliJ IDEA.
+
+### 🧩 Visual Studio Code (VS Code)
+
+Open VS Code
+
+Click File → Open Folder
+
+Select the corejava folder
+
+Install the Java Extension Pack from the Extensions Marketplace
+⚠️ Required for running and debugging Java code
+
+### 🧠 IntelliJ IDEA
+
+Open IntelliJ IDEA
+
+Click Open
+
+Select the corejava folder
+
+Allow IntelliJ to auto-configure the project
+
+▶️ Run the Code
+Option 1: Using IDE
+
+Open a file containing the main() method
+
+Click the Run ▶️ button
