@@ -1,7 +1,8 @@
 bin
 lib
 out
-src/file/
+src/files/
 src/media
 src/temp
 *.code-workspace
+*.iml
